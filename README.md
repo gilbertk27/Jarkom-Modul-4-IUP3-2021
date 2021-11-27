@@ -31,7 +31,8 @@
 
 
 ## Cisco Packet Tracker (VLSM)
-(Foto CPT)
+![messageImage_1638019719253](https://user-images.githubusercontent.com/73428164/143683676-ad383491-78c3-44c4-8e9d-c144992595db.jpeg)
+
 
 | Subnet | Node | IP | Subnet Mask | Length |
 | --- | --- | --- | --- | --- |
