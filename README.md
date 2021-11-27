@@ -72,7 +72,7 @@
 
 # A.) VLSM (Variable Length Subnet Masking)
 
-(Screenshot Cisco)
+![image](https://user-images.githubusercontent.com/64368640/143684311-5914da8a-e0fd-4d34-b179-865555c26f94.png)
 
 ## a.) Subnetting
 
